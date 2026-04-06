@@ -1,20 +1,20 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="GejCzpUfPtbv6HSGl1OP">
-    <mxGraphModel dx="1147" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SQAlo9ugzWxYW-y9sbBN-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Algoritimo e Lógia da Programação&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="50" width="620" x="360" y="100" as="geometry" />
+        <mxCell id="SQAlo9ugzWxYW-y9sbBN-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Algoritimo e Lógica da Programação&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="690" x="450" y="100" as="geometry" />
         </mxCell>
         <mxCell id="SQAlo9ugzWxYW-y9sbBN-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;AULA 01.1&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="62.5" x="377.5" y="180" as="geometry" />
+          <mxGeometry height="30" width="62.5" x="470" y="190" as="geometry" />
         </mxCell>
         <mxCell id="SQAlo9ugzWxYW-y9sbBN-12" edge="1" parent="1" source="SQAlo9ugzWxYW-y9sbBN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.454;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" target="SQAlo9ugzWxYW-y9sbBN-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SQAlo9ugzWxYW-y9sbBN-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1-&amp;nbsp; Descrição narrativa&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2 - Fluxograma&lt;/div&gt;&lt;div&gt;3 - Código&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="477.5" y="180" as="geometry" />
+          <mxGeometry height="30" width="130" x="570" y="190" as="geometry" />
         </mxCell>
         <mxCell id="SQAlo9ugzWxYW-y9sbBN-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1 - Obter 2 notas&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;2 - Somas as 2 notas e dividir por 2&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;3 - Verificar se a média é maior ou igual a 5&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;4 - Se a nota for maior e ou igual a 5 mostrar APROVADO&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;5 - Se a nota não mostrar maior ou igual a 5 mostrar REPROVADO&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="361" x="142" y="380" as="geometry" />
