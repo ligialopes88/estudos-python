@@ -8,10 +8,13 @@
           <mxGeometry height="50" width="410" x="100" y="100" as="geometry" />
         </mxCell>
         <mxCell id="LevtEWqQ-jtWeNXKdeUD-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1-&amp;nbsp; Descrição narrativa&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2 - Fluxograma&lt;/div&gt;&lt;div&gt;3 - Código&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="90" y="170" as="geometry" />
+          <mxGeometry height="30" width="130" x="80" y="190" as="geometry" />
         </mxCell>
         <mxCell id="LevtEWqQ-jtWeNXKdeUD-3" edge="1" parent="1" source="LevtEWqQ-jtWeNXKdeUD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.454;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" target="LevtEWqQ-jtWeNXKdeUD-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LevtEWqQ-jtWeNXKdeUD-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;DESCRIÇÃO NARRATIVA&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;1 - Obter os 2 número&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2 - Somas os 2 números&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3 - Mostrar o resultado&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="80" y="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
